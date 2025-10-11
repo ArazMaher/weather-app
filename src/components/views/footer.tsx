@@ -12,9 +12,9 @@ interface FooterProps {
 const Footer = memo(
   ({
     className = '',
-    authorName = 'Manjunath R',
-    githubUsername = 'manju1807',
-    repoUrl = 'Advanced-weather-app-nextjs',
+    authorName = 'Araz',
+    githubUsername = 'ArazMaher',
+    repoUrl = '/weather-app',
   }: FooterProps) => {
     const currentYear = new Date().getFullYear();
     const githubProfileUrl = `https://github.com/${githubUsername}`;
