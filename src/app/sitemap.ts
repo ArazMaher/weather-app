@@ -1,4 +1,5 @@
 // app/sitemap.ts
+export const dynamic = "force-static";
 import { siteConfig } from '@/config/siteconfig';
 import type { MetadataRoute } from 'next';
 
