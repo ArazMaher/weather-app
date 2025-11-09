@@ -45,8 +45,8 @@ To run Weatherly locally, follow these steps:
 1. 📥 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Advanced-weather-app-nextjs.git
-cd Advanced-weather-app-nextjs
+git clone https://github.com/ArazMaher/weather-app.git
+cd Weatherly-nextjs-weather-app
 ```
 
 2.📦 Set up environment variables:
@@ -172,5 +172,5 @@ src/
 
 ---
 
-Created with ❤️ by Manjunath R
+Created with ❤️ by Araz
 🌤️ Weather data provided by OpenWeather API
